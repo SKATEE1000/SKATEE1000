@@ -2,19 +2,9 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/SKATEE1000/SKATEE1000/output/snake.svg" alt="Snake animation" />
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SKATEE1000/SKATEE1000/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SKATEE1000/SKATEE1000/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SKATEE1000/SKATEE1000/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<img align="right" height="200" src="https://i.postimg.cc/xCmpLZ6H/Logo-sin-Fondo-copia.png"  />
+<div align="center">
+  <img height="300" src="https://i.postimg.cc/xCmpLZ6H/Logo-sin-Fondo-copia.png"  />
+</div>
 
 ###
 
